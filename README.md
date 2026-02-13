@@ -18,7 +18,8 @@ Bachelor of Commerce in Accounting	Feb 2016
 •	Treasurer - United Nations Volunteers Club; Vice Secretary Catholic University SCOM
 •	Economics, Statistics, Information Systems, Taxation, Audit and Assurance, Cost Accounting
 
-Experience	CLEARVISION VC 	Menlo Park, CA
+Experience	
+CLEARVISION VC 	Menlo Park, CA
 2026-Present	Research Intern – The Future Of The Data Center
 
 •	Collect, clean, and organize research data from primary and secondary sources to support ongoing analysis.
@@ -26,7 +27,7 @@ Experience	CLEARVISION VC 	Menlo Park, CA
 •	Present ongoing research findings and insights to the team on a weekly basis.
 •	Draft research reports, briefs, and interim findings for stakeholders.
 
-Experience	RANDOM GD 	 MW
+RANDOM GD 	 MW
 2022 - 2025	SME Startup - Vocational skills Training, Retail, Consumer Services 
 
 •	Launched small/mid-sized startup in 2 lines of business: 1) Beauty products (procured from China) 2) Cosmetology vocational skills training center for girls in Malawi, with intent to develop and create vocational job opportunities. 
